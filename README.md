@@ -1,2 +1,5 @@
-# WDT-wireless-Data-Transer-for-Fingertip-Sensor
-Wireless Data Transer Module using Vcore2 (Linux)
+# Improving Robotics Technology via Wireless Data Transfer
+
+This project developed “pre-touch” sensors for robotic fingertips, a significant component in robotic engineering. My goal for devices entails generating power for the sensors, transferring data wirelessly, and controlling up to five sensors at the same time. By measuring the distance between the sensor and an object, algorithms can be used to detect information before ever touching the object.
+
+By applying this innovative technology, sensor robots can be used to help those who rely on the assistance of others for completing everyday tasks. These sensors can lend a hand for those in need by opening a door, picking up fallen objects, pulling wheelchairs, and so on. Up until recently, sensors could only send their data through wires, limiting the overall movement of the robot. The goal of this study is to redevelop the current system of pre-touch sensors to transfer data wirelessly, ultimately controlling up to five sensors at once. As a result, these versatile sensors could someday be applied to any robot in the world.
